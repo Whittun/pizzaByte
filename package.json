@@ -1,0 +1,14 @@
+{
+  "name": "pizzaByte",
+  "version": "1.0.0",
+  "description": "Pet project based on React + TypeScript + Redux Toolkit + Router v6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whittun",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.91.0"
+  }
+}
